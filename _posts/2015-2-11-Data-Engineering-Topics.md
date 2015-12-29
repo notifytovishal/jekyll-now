@@ -107,7 +107,7 @@ d3js and charting
 
 json
 
-excel and office
+excel
 
 docker
 
